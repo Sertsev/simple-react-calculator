@@ -1,0 +1,70 @@
+a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+#footer {
+    bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: -150px;
+    clear: both;
+}
+
+.tomottoWrap {
+    position: relative;
+    background: #eff7f7;
+}
+
+#tomotto {
+    text-align: center;
+    width: 960px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    line-height: 36px;
+    margin: auto;
+}
+
+.lookWrap {
+    position: relative;
+    background-color: #091b12;
+    padding: 10px;
+    float: left;
+    width: 100vw;
+}
+
+#look {
+    margin: auto;
+    width: 700px;
+}
+
+.section {
+    overflow: hidden;
+    float: left;
+    display: inline;
+    width: 160px;
+    margin: 0 10px 15px 0;
+    font: 10pt verdana;
+    line-height: 1.6em;
+}
+
+.section h3 {
+    font-weight: normal;
+    font: 12pt Georgia;
+    text-transform: uppercase;
+    color: #f2f2f2;
+}
+
+.section a {
+    display: block;
+}
+
+.legality {
+    width: 100vw;
+    text-align: center;
+    clear: both;
+    font: 10pt calibri;
+    color: #eff7f7;
+    line-height: 2em;
+    padding: 10px 0 10px 0;
+    background-color: black;
+}
