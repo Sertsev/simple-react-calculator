@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
-  "homepage": "https://sertse.github.io/simple-react-calculator",
+  "homepage": "https://sertsev.github.io/simple-react-calculator",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
