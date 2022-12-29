@@ -12,7 +12,7 @@ export const ACTIONS = {
     PRE_RES: 'previous-evaluation'
 }
 
-const pre = ""
+var pre = ""
 const history = {}
 
 function reducer(state, {type, payload}) {
@@ -114,6 +114,7 @@ function reducer(state, {type, payload}) {
 function evaluate({ currentInput, previousInput, operation }) {
     const prev = parseFloat(previousInput)
     const current = parseFloat(currentInput)
+    console.log(prev, current)
     if (isNaN(prev) || isNaN(current)) return ""
     let result = ""
         switch (operation) {

@@ -1,3 +1,7 @@
+To see the demonstration of this web app use the link below.
+
+## [Simple React Calculator Web-App DEMO](https://sertsev.github.io/simple-react-calculator/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
